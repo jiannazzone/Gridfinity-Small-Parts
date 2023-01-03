@@ -13,7 +13,7 @@ This project combines several existing works:
 If you want to keep things simple, Chappel has a great set of [plans and STLs](https://www.alch.shop/shop/assortment) for his Assortment system. This is a great solution if you don't want too much customization. However, the Gridfinity platform has **HUGE** community support with a large number of mods, derivatives, and compatible parts. I wanted to use the Chappel box idea, but with the Gridfinity system inside.
 
 ## The Details
-> [Get the cut list here!](Cut%20List.pdf)
+> [Get the cut list here!](Cut%20List.pdf). Plywood is 1/2" or 12mm.
 -  This is a `7x10x6u` grid.
     - I picked the size by looking at other small parts boxes and trying to come up with a similar dimension.
     - This allows for a lot of layout flexibility and allows the bins to hold plenty of screws without getting too bulky.
