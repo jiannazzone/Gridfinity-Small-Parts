@@ -31,8 +31,8 @@ If you want to keep things simple, Chappel has a great set of [plans and STLs](h
 
 ## Images for Assembly Reference
 ![Front isometric view](media/screenshot-isometric-front.png)
-![Side ciew](media/screenshot-isometric-back.png)
-![Rear isometric view](media/screenshot-side.png)
+![Side View](media/screenshot-side.png)
+![Rear isometric view](media/screenshot-isometric-back.png)
 
 ## Completed Box
 ![Completed box, closed.](media/image-1-closed.jpeg)
