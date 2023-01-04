@@ -27,6 +27,13 @@ If you want to keep things simple, Chappel has a great set of [plans and STLs](h
 - The short edges are proud (up to the level of the lid) to prevent small parts from slipping through a gap between the lid and the sides.
 - The lid rests on top of the long edges (where it attaches with hings and latches)
 - With the lid closed, you can shake the box any way you like! Nothing should fall out of place.
+- All joints are simple butt joints, and the sides sit on top of the bottom panel.
 
+## Images for Assembly Reference
+![Front isometric view](media/screenshot-isometric-front.png)
+![Side ciew](media/screenshot-isometric-back.png)
+![Rear isometric view](media/screenshot-side.png)
+
+## Completed Box
 ![Completed box, closed.](media/image-1-closed.jpeg)
 ![Completed box, open.](media/image-2-open.jpeg)
